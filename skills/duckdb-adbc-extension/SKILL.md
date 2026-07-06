@@ -26,7 +26,7 @@ LOAD adbc;
 
 If DuckDB reports it can't find the extension, confirm the DuckDB version is 1.4.5+ (or 1.5.4+) — the extension requires a recent build.
 
-### 2. Install `dbc` (the ADBC driver manager)
+### 2. Install `dbc`
 
 ADBC drivers themselves are installed and managed with `dbc`, a small CLI from Columnar. Check whether it's already available with `dbc --help`; if not, install it with whichever of these fits the environment:
 
