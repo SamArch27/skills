@@ -38,7 +38,7 @@ If you prefer manual installation, refer to your coding agents' documentation fo
 - `adbc` — Skill for using [ADBC](https://arrow.apache.org/adbc) (Arrow Database Connectivity)
 - `dbc` — Skill for using [dbc](https://docs.columnar.tech/dbc) (the CLI for installing and managing ADBC drivers)
 - `databow` — Skill for using [databow](https://docs.columnar.tech/databow) (the CLI for querying databases)
-- `duckdb-adbc-extension` — Skill for using the [DuckDB ADBC extension](https://duckdb.org/community_extensions/extensions/adbc) (the DuckDB extension for querying databases with ADBC)
+- `duckdb-adbc` — Skill for using the [DuckDB ADBC extension](https://duckdb.org/community_extensions/extensions/adbc) (the DuckDB extension for querying databases with ADBC)
 
 ## Contributing
 
